@@ -7,21 +7,21 @@ Nombre del proyecto
 Chatbot asistente en la nube con Dialogflow CX e integracion a WhatsApp y Google Sheets para Centro de Servicios Digitales Cuidadanos CSDC
 
 markdown
-# 🤖 Chatbot Asistente en la Nube - CSDC (Versión Lite)
+ 🤖 Chatbot Asistente en la Nube - CSDC (Versión Lite)
 
 
 Fase correspondiente:
-# FASE 0: Onboarding y planificacion:
-# FASE 1: Analisis de casos de uso e intenciones del Chatbot 
+ FASE 0: Onboarding y planificacion:
+ FASE 1: Analisis de casos de uso e intenciones del Chatbot 
 
 Nombre del equipo: 
 
 Integrante y rol: 
-# katerin yamileth serrano majano - Lider del proyecto Jr., diseñadora y desarrolladora tecnico del proyecto.
+ katerin yamileth serrano majano - Lider del proyecto Jr., diseñadora y desarrolladora tecnico del proyecto.
 
 Fecha de entrega:
- # FASE 0: Onboarding y planificacion: del 23 de septiembre al 4 de octubre
- # FASE 1: Analisis de casos de uso e intenciones del chatbot : del 05 al 18 de octubre
+  FASE 0: Onboarding y planificacion: del 23 de septiembre al 4 de octubre
+  FASE 1: Analisis de casos de uso e intenciones del chatbot : del 05 al 18 de octubre
  
 Resumen ejecutivo.
 
@@ -66,7 +66,11 @@ Diagrama:
 
 # 🤖 [Ciudadano en WhatsApp] ➔ [Twilio API] ➔ [Dialogflow CX] ➔ [Apps Script] ➔ [Google Sheets]
 
+<img width="1375" height="768" alt="watermarked_img_16821835594525855145" src="https://github.com/user-attachments/assets/e599ee81-3145-41cb-a3e1-6bd2d30c5ec6" />
+
 Evidencias:
+
+
 Capturas de pantalla:
 
 Logs:
