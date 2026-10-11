@@ -69,6 +69,9 @@ Diagrama:
 
 🤖 [Ciudadano en WhatsApp] ➔ [Twilio API] ➔ [Dialogflow CX] ➔ [Apps Script] ➔ [Google Sheets]
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/fc9ff116-da46-458e-a035-82f638883f3b" />
+
+
 <img width="1375" height="768" alt="watermarked_img_16821835594525855145" src="https://github.com/user-attachments/assets/e599ee81-3145-41cb-a3e1-6bd2d30c5ec6" />
 
 Evidencias:
