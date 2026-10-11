@@ -1,10 +1,39 @@
+1. Plantilla Estancia Profesional.
+
+Portada institucional:
+
+Nombre del proyecto
 # Proyecto-23-Chatbot-Asistente-en-la-Nube-para-Atencion-Automatizada
 Chatbot asistente en la nube con Dialogflow CX e integracion a WhatsApp y Google Sheets para Centro de Servicios Digitales Cuidadanos CSDC
 
 markdown
 # 🤖 Chatbot Asistente en la Nube - CSDC (Versión Lite)
 
+
+Fase correspondiente:
+# FASE 0: Onboarding y planificacion:
+# FASE 1: Analisis de casos de uso e intenciones del Chatbot 
+
+Nombre del equipo: 
+
+Integrante y rol: 
+# katerin yamileth serrano majano - Lider del proyecto Jr., diseñadora y desarrolladora tecnico del proyecto.
+
+Fecha de entrega:
+ # FASE 0: Onboarding y planificacion: del 23 de septiembre al 4 de octubre
+ # FASE 1: Analisis de casos de uso e intenciones del chatbot : del 05 al 18 de octubre
+ 
+Resumen ejecutivo.
+
+Qué se realizó:
 Este repositorio contiene la documentación, flujos y scripts de integración para el chatbot automatizado del *Centro de Servicios Digitales Ciudadanos (CSDC). El sistema está diseñado para reducir los tiempos de respuesta y mitigar la sobrecarga de atención manual mediante el uso de **Dialogflow CX, **WhatsApp* y *Google Sheets*.
+
+Estado actual del proyecto: 
+Actualmente dicho proyecto esta en proceso de desarrollo.
+
+Desarrollo del entregable:
+
+Explicación técnica clara:
 
 ## 🚀 Características del Asistente
 * *Preguntas Frecuentes (FAQ):* Respuestas automatizadas sobre horarios de atención e información general.
@@ -33,9 +62,30 @@ Canal Digital: WhatsApp / Web]
 │  LÍNEA 2: Equipo CSDC        │ ➔ (Atiende casos de alto valor desde una base de datos)
 
 
-## 🛠️ Arquitectura del Sistema
-Usa el código con precaución.
-[Ciudadano en WhatsApp] ➔ [Twilio API] ➔ [Dialogflow CX] ➔ [Apps Script] ➔ [Google Sheets]
+Diagrama: 
+
+# 🤖 [Ciudadano en WhatsApp] ➔ [Twilio API] ➔ [Dialogflow CX] ➔ [Apps Script] ➔ [Google Sheets]
+
+Evidencias:
+Capturas de pantalla:
+
+Logs:
+
+Archivos del repositorio:
+
+URL (deploy, dashboard, pipelines, etc.)
+Conclusión breve:
+
+Resultados de la fase
+Tareas pendientes para la siguiente
+
+
+2.  Bitácora 
+Entregar una bitácora por fase completamente llena en  cada fase
+
+
+markdown
+# 🤖 Chatbot Asistente en la Nube - CSDC (Versión Lite)
 
 ## 📋 Requisitos Previos
 Antes de desplegar el asistente, asegúrate de contar con:
